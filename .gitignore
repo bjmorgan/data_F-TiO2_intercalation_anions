@@ -1,2 +1,5 @@
 .DS_Store
 .nbgrader.log
+*/.DS_Store
+*/__pycache__
+*/.nbgrader.log
