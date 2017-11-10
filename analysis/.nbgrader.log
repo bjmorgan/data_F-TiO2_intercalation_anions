@@ -1,0 +1,707 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=3ff205c66478cd0c8416671e53c4cc57fc8c3fe2aab8c3a3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=3ff205c66478cd0c8416671e53c4cc57fc8c3fe2aab8c3a3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | ERROR] The version of the Assignment List nbextension does not match the server extension; the nbextension version is 0.5.2 while the server version is 0.5.3. This can happen if you have recently upgraded nbgrader, and may cause this extension to not work correctly. To fix the problem, please see the nbgrader installation instructions: http://nbgrader.readthedocs.io/en/stable/user_guide/installation.html
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170926182520 (::1) 32.00ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel restarted: 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel restarted: 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel restarted: 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5cb8c648-f1d4-442c-9f16-03a59d7ed835
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=2a4e3abe673e60cc9cf9fb7082a223da3b28f70c70612946
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=2a4e3abe673e60cc9cf9fb7082a223da3b28f70c70612946
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | ERROR] The version of the Assignment List nbextension does not match the server extension; the nbextension version is 0.5.2 while the server version is 0.5.3. This can happen if you have recently upgraded nbgrader, and may cause this extension to not work correctly. To fix the problem, please see the nbgrader installation instructions: http://nbgrader.readthedocs.io/en/stable/user_guide/installation.html
+[NotebookApp | INFO] Kernel started: 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170927090258 (::1) 13.98ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Kernel restarted: 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax (::1): No such file or directory: figures/V_Ti+2OH_eq+2OH_ax
+[NotebookApp | WARNING] 404 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax (::1) 4.16ms referer=http://localhost:8889/notebooks/Untitled.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.73ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 2.34ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.46ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.32ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 0.91ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.42ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.41ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 3.32ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.15ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.39ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 2.03ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 0.97ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.95ms
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.10ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 0.98ms
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170927090258 (::1) 2.62ms referer=http://localhost:8889/notebooks/Untitled1.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Kernel restarted: 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Saving file at /Defect configurations.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 4139749 ms.
+[NotebookApp | INFO] 302 GET /tree (::1) 24.64ms
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 11.44ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.63ms referer=None
+[NotebookApp | INFO] 302 GET /tree (::1) 1.13ms
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 3.01ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.69ms referer=None
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 239b2593-bfac-4ba4-8a65-c5d66c63116d
+[NotebookApp | INFO] Kernel shutdown: a31ab770-ece6-492e-9d2e-d156a507b6ad
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a1365b9f1c9b24eb4a8b3bbc6d5bee77615149b0026560fa
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a1365b9f1c9b24eb4a8b3bbc6d5bee77615149b0026560fa
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /apple-touch-icon-precomposed.png (::1) 17.15ms referer=None
+[NotebookApp | WARNING] 404 GET /apple-touch-icon.png (::1) 1.82ms referer=None
+[NotebookApp | INFO] Kernel started: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | WARNING] 404 GET /nbextensions/validate_assignment/create_assignment.css?v=20171002163720 (::1) 2.16ms referer=http://localhost:8888/notebooks/Intercalation%20energies.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171002163720 (::1) 2.65ms referer=http://localhost:8888/notebooks/Intercalation%20energies.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/analysis/garnet_LGMC.ipynb (::1) 1.12ms
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5a3b79e0-095d-4be3-af14-cd180a9c2066
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=b03ec469ec1df40ee68be75b806d5aa6c6e1a46291d0c8e0
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=b03ec469ec1df40ee68be75b806d5aa6c6e1a46291d0c8e0
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Kernel restarted: 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5170339a-9796-4e80-9cd6-0a0fffe9084e
+[NotebookApp | INFO] Saving file at /Intercalation energies.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fd1405671ebdd408df9db69ec61c3a115b2cfd75ba72e439
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fd1405671ebdd408df9db69ec61c3a115b2cfd75ba72e439
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook Defect configurations.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 4.34ms
+[NotebookApp | INFO] Kernel started: 564f5baf-2570-4bc6-a4ef-5933b737716f
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171022145155 (::1) 20.84ms referer=http://localhost:8888/notebooks/Defect%20configurations.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 564f5baf-2570-4bc6-a4ef-5933b737716f
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200,"source-file":"safari-extension://com.evernote.safari.clipper-q79wdw8yh9","line-number":3,"column-number":18161}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200,"source-file":"safari-extension://com.evernote.safari.clipper-q79wdw8yh9","line-number":3,"column-number":17223}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"img-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"http://localhost:8888/favicon.ico","status-code":200}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200,"source-file":"safari-extension://com.evernote.safari.clipper-q79wdw8yh9","line-number":3,"column-number":17223}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200,"source-file":"safari-extension://com.evernote.safari.clipper-q79wdw8yh9","line-number":3,"column-number":18161}}
+[NotebookApp | WARNING] Content security violation: {"csp-report":{"document-uri":"http://localhost:8888/notebooks/Intercalation%20energies.ipynb","referrer":"http://localhost:8888/tree","violated-directive":"default-src 'none'","effective-directive":"style-src","original-policy":"frame-ancestors 'self'; report-uri /api/security/csp-report; default-src 'none'","blocked-uri":"","status-code":200}}
+[NotebookApp | INFO] Kernel started: f6c9ccac-d6cd-4a70-8d62-0ebe8355be51
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171022145155 (::1) 2.34ms referer=http://localhost:8888/notebooks/Intercalation%20energies.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f6c9ccac-d6cd-4a70-8d62-0ebe8355be51
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 564f5baf-2570-4bc6-a4ef-5933b737716f
+[NotebookApp | INFO] Kernel shutdown: f6c9ccac-d6cd-4a70-8d62-0ebe8355be51
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fb919d4b5226a88702e811378b51e3da13eae7075bb82ba7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fb919d4b5226a88702e811378b51e3da13eae7075bb82ba7
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | INFO] Kernel started: 5697f158-5a31-4100-b0ac-085a0e4c6171
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171022145847 (::1) 22.31ms referer=http://localhost:8888/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5697f158-5a31-4100-b0ac-085a0e4c6171
+[NotebookApp | WARNING] 404 GET /api/kernels/f6c9ccac-d6cd-4a70-8d62-0ebe8355be51/channels?session_id=E148E59C1CEC4ED7B7544E309A4FA233 (::1): Kernel does not exist: f6c9ccac-d6cd-4a70-8d62-0ebe8355be51
+[NotebookApp | WARNING] 404 GET /api/kernels/f6c9ccac-d6cd-4a70-8d62-0ebe8355be51/channels?session_id=E148E59C1CEC4ED7B7544E309A4FA233 (::1) 6.41ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: f6c9ccac-d6cd-4a70-8d62-0ebe8355be51:E148E59C1CEC4ED7B7544E309A4FA233
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=d4ee0fa65bbb8e290199c6773d6fab6ef34a5583e60e335e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d4ee0fa65bbb8e290199c6773d6fab6ef34a5583e60e335e
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171108191140 (::1) 13.16ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] Notebook Defect configurations.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/figures/V_Ti+2OH_eq+2OH_ax.pdf (::1) 1.69ms
+[NotebookApp | INFO] Kernel started: 83f0f871-f33d-4560-b934-fe11cbd9f01b
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171108191140 (::1) 2.19ms referer=http://localhost:8888/notebooks/Defect%20configurations.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171108191140 (::1) 4.61ms referer=http://localhost:8888/notebooks/Defect%20configurations.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 83f0f871-f33d-4560-b934-fe11cbd9f01b
+[NotebookApp | INFO] Starting buffering for 83f0f871-f33d-4560-b934-fe11cbd9f01b:8E54CA56804249FD84C3DD8BBD5C59CF
+[NotebookApp | INFO] Kernel restarted: 83f0f871-f33d-4560-b934-fe11cbd9f01b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 83f0f871-f33d-4560-b934-fe11cbd9f01b
+[NotebookApp | INFO] Restoring connection for 83f0f871-f33d-4560-b934-fe11cbd9f01b:8E54CA56804249FD84C3DD8BBD5C59CF
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Defect configurations.ipynb
+[NotebookApp | INFO] Kernel started: 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171108191140 (::1) 3.05ms referer=http://localhost:8888/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171108191140 (::1) 2.59ms referer=http://localhost:8888/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | INFO] Starting buffering for 07c0a206-3907-46ad-b182-dbfd513e8752:3AB891FE03164E8E91F4F095797B1478
+[NotebookApp | INFO] Kernel restarted: 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | INFO] Restoring connection for 07c0a206-3907-46ad-b182-dbfd513e8752:3AB891FE03164E8E91F4F095797B1478
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 07c0a206-3907-46ad-b182-dbfd513e8752:3AB891FE03164E8E91F4F095797B1478
+[NotebookApp | INFO] Kernel restarted: 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | INFO] Restoring connection for 07c0a206-3907-46ad-b182-dbfd513e8752:3AB891FE03164E8E91F4F095797B1478
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=9944f2c203413642f37cd4e927ac38e55dd1e2ea879fff69
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=9944f2c203413642f37cd4e927ac38e55dd1e2ea879fff69
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171109133516 (::1) 11.68ms referer=http://localhost:8890/tree
+[NotebookApp | INFO] Kernel started: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171109133516 (::1) 2.47ms referer=http://localhost:8890/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171109133516 (::1) 2.58ms referer=http://localhost:8890/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 390281 ms.
+[NotebookApp | INFO] Starting buffering for 83f0f871-f33d-4560-b934-fe11cbd9f01b:8E54CA56804249FD84C3DD8BBD5C59CF
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 07c0a206-3907-46ad-b182-dbfd513e8752:3AB891FE03164E8E91F4F095797B1478
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Kernel restarted: 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2274ca21-ec41-4e33-baa4-057003183238
+[NotebookApp | INFO] Restoring connection for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 2274ca21-ec41-4e33-baa4-057003183238:08F0BD2CA6C5413986FA8ACDB1E02B9D
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 83f0f871-f33d-4560-b934-fe11cbd9f01b
+[NotebookApp | INFO] Kernel shutdown: 07c0a206-3907-46ad-b182-dbfd513e8752
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/bjm42/Documents/Work/Projects/Active Projects/F-TiO2 intercalation/F-TiO2 anions data/analysis
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=8072060afcd13e9fa6a01a93d2f3be868a99d5b5b2e4b50b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8072060afcd13e9fa6a01a93d2f3be868a99d5b5b2e4b50b
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171109212012 (::1) 16.63ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 86194e4e-62d5-46d3-a206-337574b4887b
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171109212012 (::1) 3.20ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171109212012 (::1) 5.91ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 86194e4e-62d5-46d3-a206-337574b4887b
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Starting buffering for 86194e4e-62d5-46d3-a206-337574b4887b:763E4FEEC4F54C7A85CE8BE55CEF4152
+[NotebookApp | WARNING] 404 GET /static/components/moment/locale/en-gb.js?v=20171109212012 (::1) 1.86ms referer=http://localhost:8888/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | INFO] Kernel started: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20171109212012 (::1) 2.93ms referer=http://localhost:8888/notebooks/Intercalation%20energies%20all.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Kernel restarted: 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 127b4c52-aa27-4532-85b8-51cf1043f1e1
+[NotebookApp | INFO] Restoring connection for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Intercalation energies all.ipynb
+[NotebookApp | INFO] Starting buffering for 127b4c52-aa27-4532-85b8-51cf1043f1e1:50DCD1DF1D7C4E6581CA973FEAAC4FBB
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2274ca21-ec41-4e33-baa4-057003183238

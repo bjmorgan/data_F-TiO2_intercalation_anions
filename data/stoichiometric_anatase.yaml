@@ -1,0 +1,435 @@
+---
+title: stoichiometric anatase + Al
+status: finished
+stoichiometry:
+    - Ti: 36
+    - O: 72
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -901.78906503 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: cd84c0a870f09adf88e2a07e7c9f22ba
+directory: ./3x3x1/Al_intercalation/
+
+---
+title: stoichiometric anatase + Ca
+status: finished
+stoichiometry:
+    - Ti: 36
+    - O: 72
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -898.93137148 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 30ee64c10e9a9049c1068d53beab2616
+directory: ./3x3x1/Ca_intercalation/
+
+---
+title: stoichiometric anatase + Li
+status: finished
+stoichiometry:
+    - Ti: 36
+    - O: 72
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -899.92688289 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 94722e3e39ab73d0d8b3cdbe39da9631
+directory: ./3x3x1/Li_intercalation/
+
+---
+title: stoichiometric anatase + Mg
+status: incomplete
+stoichiometry:
+    - Ti: 36
+    - O: 72
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -899.19696841 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 0da2a56ad514879730bd491baabbc8a2
+directory: ./3x3x1/Mg_intercalation/
+
+---
+title: stoichiometric anatase + Na
+status: finished
+stoichiometry:
+    - Ti: 36
+    - O: 72
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -897.81634614 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 2273e48a31c65a88316fc091dde57ef7
+directory: ./3x3x1/Na_intercalation/
+
+---
+title: stoichiometric anatase
+status: finished
+stoichiometry:
+    - Ti: 36
+    - O: 72
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -896.45323888 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e09b81c07a246ccb455d5df81865c9cf
+directory: ./3x3x1/stoichiometric/
+
+---
+title: Anatase TiO2 4x4x2 stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 128
+    - O: 256
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3187.44045272 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 46e033820a803f094bf0d2ab5a084015
+directory: ./4x4x2/stoichiometric/
+
+---
+title: anatase TiO2 unit cell 0.990 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.18957852 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 197cff406eb5428918db4191553a6f9f
+directory: ./murnaghan/0.990/
+
+---
+title: anatase TiO2 unit cell 1.000 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.46522829 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f5bbd645eb26ec2811c36d15d4dbb848
+directory: ./murnaghan/1.000/
+
+---
+title: anatase TiO2 unit cell 1.010 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.60059174 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 0cc99225042ad4b6ebce77c2c4c01948
+directory: ./murnaghan/1.010/
+
+---
+title: anatase TiO2 unit cell 1.01433 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.61572605 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e24cdba7c6de99413d0c7176d0c98244
+directory: ./murnaghan/1.01433/
+
+---
+title: anatase TiO2 unit cell 1.01458 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.61576786 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f5e8753090f814cb27af0bc7a8043816
+directory: ./murnaghan/1.01458/
+
+---
+title: anatase TiO2 unit cell 1.01459 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.61576154 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 48fc18d4fe252cc3a8d545c2b68eaa62
+directory: ./murnaghan/1.01459/
+
+---
+title: anatase TiO2 unit cell 1.01462 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.61579561 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 61c8e782032fdf3915d2e174979c89c7
+directory: ./murnaghan/1.01462/
+
+---
+title: anatase TiO2 unit cell 1.01462 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.61578666 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 13cbbeda2322e9034412b3ee64624a58
+directory: ./murnaghan/1.01487/
+
+---
+title: anatase TiO2 unit cell 1.020 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.59802056 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 7124968d3645f95274395da5d47b36d0
+directory: ./murnaghan/1.020/
+
+---
+title: anatase TiO2 unit cell 1.030 scaling
+status: finished
+stoichiometry:
+    - Ti: 4
+    - O: 8
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -99.46679963 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 4 4 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 3822e9ec73b4f88e2bde436061deda76
+directory: ./murnaghan/1.030/
+

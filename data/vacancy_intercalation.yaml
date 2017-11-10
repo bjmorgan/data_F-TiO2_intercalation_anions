@@ -1,0 +1,1080 @@
+---
+title: TiO2 1F+3OH + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -900.8203782 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 74ccd7884f56b5738316129adbdd2f3d
+directory: ./1F+3OH/Al/
+
+---
+title: TiO2 1F+3OH + Ca
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -898.47093827 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 8a433ef46253e26db72e3dfb6400eb5b
+directory: ./1F+3OH/Ca/
+
+---
+title: TiO2 1F+3OH + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -897.95016981 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e11f430e020b45a50dafdacc2e769a8a
+directory: ./1F+3OH/Li/
+
+---
+title: TiO2 1F+3OH + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -898.31784315 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e72bc832815345296724840ea4970bad
+directory: ./1F+3OH/Mg/
+
+---
+title: TiO2 1F+3OH + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -896.39549076 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f2a3f6abcf4ffdb48c0be398e548eca8
+directory: ./1F+3OH/Na/
+
+---
+title: TiO2 1F+3OH stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 71
+    - H: 3
+    - F: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -894.53080037 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 8da7ee079c675491f60b34ca2181003b
+directory: ./1F+3OH/stoich/
+
+---
+title: TiO2 2F+2OH cis + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -894.79958425 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 83dd3d0a645546d829da6303c5f8d612
+directory: ./2F+2OH_cis/Al/
+
+---
+title: TiO2 2F+2OH cis + Ca
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -892.63131718 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 40ce6868509ef99304905b84d43e2df0
+directory: ./2F+2OH_cis/Ca/
+
+---
+title: TiO2 2F+2OH cis + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -892.03556887 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 55c5fabc67015ee0253d23d2b62dc8be
+directory: ./2F+2OH_cis/Li/
+
+---
+title: TiO2 2F+2OH cis + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -892.41376814 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 77f7a571dc745dc0a7159003612b73d4
+directory: ./2F+2OH_cis/Mg/
+
+---
+title: TiO2 2F+2OH cis + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -890.5220857 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 40697c861d96c0bfad52168eeab10378
+directory: ./2F+2OH_cis/Na/
+
+---
+title: TiO2 2F+2OH cis stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -888.22115228 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 1a1cd9879750590d6d7134b4ed7c2695
+directory: ./2F+2OH_cis/stoich/
+
+---
+title: TiO2 2F+2OH trans + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -894.8032696 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 2f19cb9b251e2b20e70e37c32909a126
+directory: ./2F+2OH_trans/Al/
+
+---
+title: TiO2 2F+2OH trans + Ca
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -892.52522633 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 459542332eb1db7946a5a71820b06017
+directory: ./2F+2OH_trans/Ca/
+
+---
+title: TiO2 2F+2OH trans + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -891.9989668 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 6b8a9f8e6acea79e2a616302cbffed68
+directory: ./2F+2OH_trans/Li/
+
+---
+title: TiO2 2F+2OH trans + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -892.41422103 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 36df81daa918c1f0a42311a91473e0af
+directory: ./2F+2OH_trans/Mg/
+
+---
+title: TiO2 2F+2OH trans + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -890.49570756 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e48fa75bfc9bdca9a6cd741596817a9e
+directory: ./2F+2OH_trans/Na/
+
+---
+title: TiO2 2F+2OH trans stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 70
+    - H: 2
+    - F: 2
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -888.24420241 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 6b2f733e498d7b10328bffad3add6b6a
+directory: ./2F+2OH_trans/stoich/
+
+---
+title: TiO2 3F+1OH + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -888.87507627 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 48a7649465e8c41e27373b20ca0954b2
+directory: ./3F+1OH/Al/
+
+---
+title: TiO2 3F+1OH + Ca
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -886.54280201 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: eab2e7019df77a171e0e5a3be7804a19
+directory: ./3F+1OH/Ca/
+
+---
+title: TiO2 3F+1OH + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -885.95953732 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 64da8c932950f2dc6674a14dc35fc47f
+directory: ./3F+1OH/Li/
+
+---
+title: TiO2 3F+1OH + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -886.1709042 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: d897ce7d94af13fa4b379f85f35f0880
+directory: ./3F+1OH/Mg/
+
+---
+title: TiO2 3F+1OH + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -884.38615041 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 6dcf0b86c286790529d150807b64a7f7
+directory: ./3F+1OH/Na/
+
+---
+title: TiO2 3F+1OH stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 69
+    - H: 1
+    - F: 3
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -882.02223052 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 00fed4d741d512addcff820587761207
+directory: ./3F+1OH/stoich/
+
+---
+title: TiO2 4F + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -882.86425869 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 8d59553d92280d6f6b3998d2e557ba8c
+directory: ./4F/Al/
+
+---
+title: TiO2 4F + Ca
+status: incomplete
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -880.74193101 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f28c18c12952b4b0f5cebf11436aef84
+directory: ./4F/Ca/
+
+---
+title: TiO2 4F + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -880.34275831 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 9dedef0cce0cc940425190f4fb9a1515
+directory: ./4F/Li/
+
+---
+title: TiO2 4F + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -880.72394688 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: b9319c7846950f36be026e97a6a655ec
+directory: ./4F/Mg/
+
+---
+title: TiO2 4F + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -878.97409573 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 664d6aa910c9e92a309266ee4623aa22
+directory: ./4F/Na/
+
+---
+title: TiO2 4F stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 68
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -875.70225705 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 1942d0525bf4fa2afe50ce3e665303b4
+directory: ./4F/stoich/
+
+---
+title: TiO2 4OH + Al
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+    - Al: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - Al: PAW_PBE Al 04Jan2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -906.95641949 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: cb592a2b3ef5ea1aaa6a217905598cd1
+directory: ./4OH/Al/
+
+---
+title: TiO2 4OH + Ca
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+    - Ca: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+ldau:
+    - Ti: d 4.2 0.0
+energy: -903.72761315 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 2bbac0ee83e715f271654e4e864c7bd4
+directory: ./4OH/Ca/
+
+---
+title: TiO2 4OH + Li
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+    - Li: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - Li: PAW_PBE Li 17Jan2003
+ldau:
+    - Ti: d 4.2 0.0
+energy: -903.52014992 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 4c7275930db79a7e53b19859e8af0e26
+directory: ./4OH/Li/
+
+---
+title: TiO2 4OH + Mg
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+    - Mg: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - Mg: PAW_PBE Mg 13Apr2007
+ldau:
+    - Ti: d 4.2 0.0
+energy: -903.47212672 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: b7c70ed9f6b9de2dd611b99135a3cc13
+directory: ./4OH/Mg/
+
+---
+title: TiO2 4OH + Na
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+    - Na: 1
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+    - Na: PAW_PBE Na 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -901.83619282 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: c5190b54215637dda2e87a6fc16a1286
+directory: ./4OH/Na/
+
+---
+title: TiO2 4OH stoichiometric
+status: finished
+stoichiometry:
+    - Ti: 35
+    - O: 72
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -900.2206989 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 30b3997fd6d368b70184a0dc8c8c679c
+directory: ./4OH/stoich/
+

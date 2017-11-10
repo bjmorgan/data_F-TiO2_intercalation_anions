@@ -1,0 +1,105 @@
+---
+title: elemental Al
+status: finished
+stoichiometry:
+    - Al: 4
+potcar:
+    - Al: PAW_PBE Al 04Jan2001
+energy: -16.35519909 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 16 16 16
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.3.5
+vasprun md5: d3168169d95c1efa24929b23b928d563
+directory: ./Al/
+
+---
+title: elemental Ca
+status: finished
+stoichiometry:
+    - Ca: 4
+potcar:
+    - Ca: PAW_PBE Ca_sv 06Sep2000
+energy: -8.52977575 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 16 16 16
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.3.5
+vasprun md5: 0c24c915ac320f2d948d4401bb790863
+directory: ./Ca/
+
+---
+title: elemental Li
+status: finished
+stoichiometry:
+    - Li: 2
+potcar:
+    - Li: PAW_PBE Li 17Jan2003
+energy: -3.91542685 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 16 16 16
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.3.5
+vasprun md5: 99c1bd7e9b6f25950b8f5021e21304f7
+directory: ./Li/
+
+---
+title: elemental Mg
+status: finished
+stoichiometry:
+    - Mg: 2
+potcar:
+    - Mg: PAW_PBE Mg 13Apr2007
+energy: -3.4490223 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 16 16 16
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 915377b7ccb9b699c3d6c40e303c5b7e
+directory: ./Mg/
+
+---
+title: elemental Na
+status: finished
+stoichiometry:
+    - Na: 2
+potcar:
+    - Na: PAW_PBE Na 08Apr2002
+energy: -2.79086897 eV
+lreal: True
+k-points:
+    scheme: Monkhorst
+    grid: 16 16 16
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.3.5
+vasprun md5: 2ec136e249e8cc84f247a5403383b8d8
+directory: ./Na/
+

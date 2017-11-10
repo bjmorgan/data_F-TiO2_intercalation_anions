@@ -1,0 +1,378 @@
+---
+title: Anatase TiO2 4x4x2 V_Ti + 0F_eq + 4F_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3162.46263947 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: e5227cdb5aca75438a4c4c666dcac80d
+directory: ./V_Ti+0Feq+4Fsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 0OH_eq + 4OH_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3186.83566519 eV
+lreal: False
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: ad41dc7babf4d66489218d2b8631e886
+directory: ./V_Ti+0OHeq+4OHsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 1F_eq + 3F_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3163.59822591 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 15090dcaca1de5d2391f4c24891e8387
+directory: ./V_Ti+1Feq+3Fsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 1OH_eq + 3OH_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3188.28570781 eV
+lreal: False
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: ae76cbd48930dc68f39bf00a0c191485
+directory: ./V_Ti+1OHeq+3OHsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 2F_eq + 2F_ax
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3166.24081848 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 98bad8493f67416520e4666f5a1cb419
+directory: ./V_Ti+2Feq+2Fax/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 2F_eq + 2F_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3164.58625773 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 2bd1c690cce2c15f1dca4b7da21e1f62
+directory: ./V_Ti+2Feq+2Fsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 2OH_eq + 2OH_ax
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3190.86890528 eV
+lreal: False
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 555f103fa33f4605a4e06725fe05f35c
+directory: ./V_Ti+2OHeq+2OHax/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 2OH_eq + 2OH_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3189.17821809 eV
+lreal: False
+k-points:
+    scheme: Monkhorst
+    grid: 2 2 2
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: acd8a67c82938045c05cbc35dd3777c6
+directory: ./V_Ti+2OHeq+2OHsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 3F_eq + 1F_ax
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3166.16011614 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: c1ec33fbee0d78faa940a3aba4b15169
+directory: ./V_Ti+3Feq+1Fax/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 3F_eq + 1F_ax alternate
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3166.34073989 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 642722ec81dc6e7af8a954c10f054edf
+directory: ./V_Ti+3Feq+1Fax_alt/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 3F_eq + 1F_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3165.55653566 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f77e45d6f5c42c91835642b9fde1e836
+directory: ./V_Ti+3Feq+1Fsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 3OH_eq + 1OH_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3190.05463367 eV
+lreal: False
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 1
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 38a9ea3678516a88643e307e20c3c55e
+directory: ./V_Ti+3OHeq+1OHsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 4F_eq + 0F_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 252
+    - F: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - F: PAW_PBE F 08Apr2002
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3166.39054362 eV
+lreal: True
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: f216710d90e1afe9257a82baaefcf5f2
+directory: ./V_Ti+4Feq+0Fsep/
+
+---
+title: Anatase TiO2 4x4x2 V_Ti + 4OH_eq + 0OH_sep
+status: finished
+stoichiometry:
+    - Ti: 127
+    - O: 256
+    - H: 4
+potcar:
+    - Ti: PAW_PBE Ti_pv 07Sep2000
+    - O: PAW_PBE O 08Apr2002
+    - H: PAW_PBE H 15Jun2001
+ldau:
+    - Ti: d 4.2 0.0
+energy: -3190.85441299 eV
+lreal: False
+k-points:
+    scheme: Gamma
+    grid: 1 1 1
+functional: PBEsol
+encut: 500.0
+ediffg: -0.01
+ibrion: 2
+converged: True
+version: vasp.5.4.4.18Apr17-6-g9f103f2a35
+vasprun md5: 006659268a423d103b14c5d4d8c38896
+directory: ./V_Ti+4OHeq+0OHsep/
+
