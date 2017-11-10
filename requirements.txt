@@ -1,0 +1,6 @@
+pandas
+numpy
+git+https://github.com/bjmorgan/vasppy.git
+matplotlib
+version_information
+jupyter
