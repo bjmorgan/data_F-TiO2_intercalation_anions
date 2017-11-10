@@ -10,3 +10,5 @@ Notebook execution can be tested by running:
 ```
 python3 -m unittest discover
 ```
+
+Automated testing that all notebooks execute without errors happens [here](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions).
