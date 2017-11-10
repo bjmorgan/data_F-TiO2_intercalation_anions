@@ -1,6 +1,6 @@
-git+https://github.com/bjmorgan/vasppy.git
 pandas
 numpy
 matplotlib
 version_information
 jupyter
+vasppy
