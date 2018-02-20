@@ -4,9 +4,7 @@ Authors:
 - B. J. Morgan ORCID: 0000-0002-3056-8233
 
 [![CircleCI](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions.svg?style=shield&circle-token=62e9c3a0cf6c788761c1ab66018dced0a0a4fd60)](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions)
-
-TODO:
-- Add to Zenodo, and link doi here.
+[![DOI](https://zenodo.org/badge/110230729.svg)](https://zenodo.org/badge/latestdoi/110230729)
 
 ## Summary
 
