@@ -1,0 +1,21 @@
+{
+  "title": "DFT Data Analysis: Intercalation of X=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO2",
+  "creators": [{
+      "name": "Morgan, Benjamin J.",
+      "affiliation": "Department of Chemistry, University of Bath, Claverton Down, Bath, BA2 7AY, UK.",
+      "orcid": "0000-0002-3056-8233"
+  }],
+  "description": "This repository contains analysis of DFT data that supports the findings reported in Ma et al. Lithium Intercalation in Anatase Titanium Vacancies and the Role of Local Anionic Environment, and code for plotting the relevant figures in this paper.",
+  "access_right": "open",
+  "license": "MIT",
+  "grants": [{
+      "code": "UF130329",
+      "funder": "The Royal Society"
+  }],
+  "related_identifiers": [{
+      "identifier": "10.15125/BATH-00473",
+      "relation": "isSupplementTo", 
+      "scheme": "doi"
+  }],
+  "upload_type": "software"
+}
