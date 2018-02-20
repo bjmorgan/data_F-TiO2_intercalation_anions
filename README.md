@@ -35,7 +35,7 @@ This top level directory contains four sub-directories: `data`, `analysis`, `fig
 
 ## Dependencies
 
-Python dependencies are listed in the [`requirements.txt`](requirements.txt) file./
+Python dependencies are listed in the [`requirements.txt`](requirements.txt) file.
 
 ## Tests
 
