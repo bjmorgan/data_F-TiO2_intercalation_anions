@@ -3,8 +3,8 @@
 Authors:
 - B. J. Morgan ORCID: 0000-0002-3056-8233
 
-[![CircleCI](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions.svg?style=shield&circle-token=62e9c3a0cf6c788761c1ab66018dced0a0a4fd60)](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions)
 [![DOI](https://zenodo.org/badge/110230729.svg)](https://zenodo.org/badge/latestdoi/110230729)
+[![CircleCI](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions.svg?style=shield&circle-token=62e9c3a0cf6c788761c1ab66018dced0a0a4fd60)](https://circleci.com/gh/bjmorgan/data_F-TiO2_intercalation_anions)
 
 ## Summary
 
@@ -23,7 +23,7 @@ The repository consists of
 
 This top level directory contains four sub-directories: `data`, `analysis`, `figures`, and `tests`.
 
-* **`data/`**: This folder contains a series of `.yaml` filed, containing data extracted from VASP calculations. The inputs and outputs for the source VASP calculations, along with scripts for extracting the relevant data and generating these files, are available at the [University of Bath Data Archive]TODO.
+* **`data/`**: This folder contains a series of `.yaml` filed, containing data extracted from VASP calculations. The inputs and outputs for the source VASP calculations, along with scripts for extracting the relevant data and generating these files, are available at the [University of Bath Data Archive](https://dx.doi.org/10.15125/BATH-00473).
 
 * **`analysis/`**: This folder contains Jupyter notebooks that perform the analysis of the DFT data, using the input data in the `data` folder. These notebooks also generate relevant figures for publication.
 
@@ -46,6 +46,6 @@ Automated testing that all notebooks execute without errors happens [here](https
 
 ## References
 
-1. J. Ma *et al.*, In Submission.
-2. B. J. Morgan &ldquo;DFT Dataset: Intercalation of *X*=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO<sub>2</sub>&rdquo; [University of Bath Research Data Archive]TODO
+1. J. Ma *et al.*, *In Submission*.
+2. B. J. Morgan &ldquo;DFT Dataset: Intercalation of *X*=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO<sub>2</sub>&rdquo; [University of Bath Research Data Archive](https://dx.doi.org/10.15125/BATH-00473).
 
