@@ -1,4 +1,4 @@
-# Data Analysis: Intercalation of *X*=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO<sub>2</sub>
+# DFT Data Analysis: Intercalation of *X*=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO<sub>2</sub>
 
 Authors:
 - B. J. Morgan ORCID: 0000-0002-3056-8233
