@@ -12,10 +12,17 @@
       "code": "UF130329",
       "funder": "The Royal Society"
   }],
-  "related_identifiers": [{
-      "identifier": "10.15125/BATH-00473",
-      "relation": "isSupplementTo", 
-      "scheme": "doi"
-  }],
+  "related_identifiers": [
+      {
+          "identifier": "10.15125/BATH-00473",
+          "relation": "isSupplementTo", 
+          "scheme": "doi"
+      },
+      {
+          "scheme": "url", 
+          "identifier": "https://github.com/bjmorgan/data_F-TiO2_intercalation_anions",
+          "relation": "isSupplementTo"
+      }
+    ],
   "upload_type": "software"
 }
