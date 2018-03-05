@@ -13,6 +13,7 @@ This repository contains data analysis for a series of DFT calculations of metal
 The analysis contained here supports the findings reported in  
 * J. Ma *et al.*, &ldquo;Lithium Intercalation in Anatase Titanium Vacancies and the Role of Local Anionic Environment&rdquo; \[1\],  
 * W. Li *et al.*, &ldquo;Electrochemical Storage Mechanism in oxy-Hydroxyfluorinated Anatase for Sodium-ion Batteries&rdquo; \[2\],  
+
 and includes code for plotting the figures in these papers that report DFT data.
 
 The repository consists of
