@@ -49,7 +49,7 @@ Automated testing that all notebooks execute without errors happens [here](https
 
 ## References
 
-1. J. Ma *et al.*, &ldquo;Lithium Intercalation in Anatase Titanium Vacancies and the Role of Local Anionic Environment&rdquo; *In Submission*.
-2. W. Li *et al.*, &ldquo;Electrochemical Storage Mechanism in oxy-Hydroxyfluorinated Anatase for Sodium-ion Batteries&rdquo; *In Submission*.
+1. J. Ma *et al.*, &ldquo;Lithium Intercalation in Anatase Titanium Vacancies and the Role of Local Anionic Environment&rdquo; *In Press* *Chem. Mater.*
+2. W. Li *et al.*, &ldquo;Electrochemical Storage Mechanism in oxy-Hydroxyfluorinated Anatase for Sodium-ion Batteries&rdquo; *Inorg. Chem. Front.* (2018). doi:[10.1039/C8QI00185E](https://dx.doi.org/10.1039/C8QI00185E).
 3. B. J. Morgan &ldquo;DFT Dataset: Intercalation of *X*=(Li, Na, Mg, Ca, Al) into (F/OH)-substituted anatase TiO<sub>2</sub>&rdquo; [University of Bath Research Data Archive](https://dx.doi.org/10.15125/BATH-00473).
 
